@@ -1,27 +1,28 @@
 # Development Milestones - 2.5 %
 
-|    Module              | Progress       | 
-|:----------------------:|:--------------:|
-| Intro and Env          | 0              |
-| Intro to Python        | 66             |
-| Python Features        | 0              |
-| Data Structures        | 0              |
-| Software Theory        | 0              |
-| Data Management        | 0              |
-| Intro to DS            | 0              |
-| Data Management for DS | 0              |
-| Descriptive Stats      | 0              |
-| Intro to Regression    | 0              |
-| Supervised Learning    | 0              |
-| Unsupervised Learning  | 0              |
-| Deep Learning          | 0              |
-| Reinforcement Learning | 0              |
-| NLP                    | 0              |
-| FS1                    | 0              |
-| FS2                    | 0              |
-| FS3                    | 0              |
-| FS4                    | 0              |
-| FS5                    | 0              |
+16,20,23,27,30,3,6,10,13
+|Phase |    Module              | Deadline       | Progress       | 
+| 1-CS |:----------------------:|:--------------:|:--------------:|
+| 1-CS | Intro and Env          | Jan 23         | 0              |
+| 1-CS | Intro to Python        | Jan 13         | 66             |
+| 1-CS | Python Features        | Jan 30         | 0              |
+| 1-CS | Data Structures        | Feb 3          | 0              |
+| 1-CS | Software Theory        | Feb 6          | 0              |
+| 1-CS | Data Management        | Feb 10         | 0              |
+| 2-DS | Intro to DS            | Jan 23         | 0              |
+| 2-DS | Data Management for DS | Jan 23         | 0              |
+| 2-DS | Descriptive Stats      | Jan 27         | 0              |
+| 2-DS | Intro to Regression    | Jan 30         | 0              |
+| 2-DS | Supervised Learning    | Jan 30         | 0              |
+| 2-DS | Unsupervised Learning  | Feb 3          | 0              |
+| 2-DS | Deep Learning          | Feb 6          | 0              |
+| 2-DS | Reinforcement Learning | Feb 6          | 0              |
+| 2-DS | Applications           | Feb 10         | 0              |
+| 2-FS | FS1                    | Jan 23         | 0              |
+| 2-FS | FS2                    | Jan 27         | 0              |
+| 2-FS | FS3                    | Jan 30         | 0              |
+| 2-FS | FS4                    | Feb 3          | 0              |
+| 2-FS | FS5                    | Feb 6          | 0              |
 
 ## Phase 1
 
@@ -34,13 +35,13 @@
 
 ### Introduction to Python
 
-|    Module         | Exercises (10) |  Slides  | Developer |
-|:-----------------:|:--------------:|:--------:|:---------:|
-| Hello World       | 10             | x        | Wasif     |
-| Data Types        | 6              | x        | Wasif     |
-| Control Flow      | 0              | x        | Wasif     |
-| Functions         | 0              | x        | Wasif     |
-| Complexity Theory | 0              | x        | Wasif     |
+|    Module         | Exercises (10) |  Content (3)  | Developer |
+|:-----------------:|:--------------:|:-------------:|:---------:|
+| Hello World       | x              | x             | Wasif     |
+| Data Types        | 6              | x             | Wasif     |
+| Control Flow      | 0              | x             | Wasif     |
+| Functions         | 0              | x             | Wasif     |
+| Complexity Theory | 0              | x             | Wasif     |
 
 ### Python Features
 
@@ -127,7 +128,7 @@
 | Recurrent NN              | 0              | 0             | 0         |
 | Generative Adversarial NN | 0              | 0             | 0         |
 
-### Natural Language Processing
+### Applications
 
 |    Module            | Exercises (10) |  Content (3)  | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
@@ -135,15 +136,9 @@
 | Time Series Modeling | 0              | 0             | 0         |
 | Sentiment Analysis   | 0              | 0             | 0         |
 | Topic Modeling       | 0              | 0             | 0         |
-
-### Computer Vision
-
-|    Module               | Exercises (10) |  Content (3)  | Developer |
-|:-----------------------:|:--------------:|:-------------:|:---------:|
-| Intro to Vision         | 0              | 0             | 0         |
-| Intro to OpenCV         | 0              | 0             | 0         |
-| Feature Extraction      | 0              | 0             | 0         |
-| Object Detection        | 0              | 0             | 0         |
+| Intro to Vision      | 0              | 0             | 0         |
+| Feature Extraction   | 0              | 0             | 0         |
+| Object Detection     | 0              | 0             | 0         |
 
 ## Phase 2 - Full Stack
 

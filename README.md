@@ -121,7 +121,7 @@
 
 |    Module                 | Exercises (10) |  Content (3)  | Developer |
 |:-------------------------:|:--------------:|:-------------:|:---------:|
-| Intro to NN               | 0              | 0             | 0         |
+| Intro to Neural Networks  | 0              | 0             | 0         |
 | Feed Forward NN           | 0              | 0             | 0         |
 | Convolutional NN          | 0              | 0             | 0         |
 | Recurrent NN              | 0              | 0             | 0         |

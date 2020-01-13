@@ -16,9 +16,9 @@
 |:-----------------:|:--------------:|:--------:|:---------:|
 | Hello World       | 10             | x        | Wasif     |
 | Data Types        | 6              | x        | Wasif     |
-| Control Flow      | 0              | x        | Wasif     |
-| Functions         | 0              | x        | Wasif     |
-| Complexity Theory | 0              | x        | Wasif     |
+| Control Flow      | 0              | .        | Wasif     |
+| Functions         | 0              | .        | Wasif     |
+| Complexity Theory | 0              | .        | Wasif     |
 
 ### Introduction to Python
 

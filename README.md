@@ -12,15 +12,13 @@
 | Functions         | 0              | .            | Wasif        |
 | Complexity Theory | 0              | .            | Wasif        |
 
-|    Module   | Exercises (10) |  Slides | Developer |
-|:--------------:|:------:|:--------:|:------:|
-|    Hello World    |   `+`  |  `5 + 2` |   `7`  |
-|   Subtraction  |   `-`  |  `5 - 2` |   `3`  |
-| Multiplication |   `*`  |  `5 * 2` |  `10`  |
-|    Division    |   `/`  |  `5 / 2` |  `2.5` |
-| Exponentiation |  `**`  | `5 ** 2` |  `25`  |
-|    Quotient    |  `//`  | `5 // 2` |   `2`  |
-|    Remainder   |   `%`  |  `5 % 2` |   `1`  |
+|    Module         | Exercises (10) |  Slides  | Developer |
+|:-----------------:|:--------------:|:--------:|:---------:|
+| Hello World       |   `+`  |  `5 + 2` |   `7`  |
+| Data Types        |   `-`  |  `5 - 2` |   `3`  |
+| Control Flow      |   `*`  |  `5 * 2` |  `10`  |
+| Functions         |   `/`  |  `5 / 2` |  `2.5` |
+| Complexity Theory |  `**`  | `5 ** 2` |  `25`  |
 
 ### Introduction to Python
 

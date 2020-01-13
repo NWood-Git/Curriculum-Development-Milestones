@@ -5,7 +5,7 @@
 ### Introduction and Environment
 
 | Module            | Exercises (10) | Slides       | Developer    |
-|:-----------------:|:----------- --:|:------------:|:------------:| 
+|:-----------------:|:--------------:|:------------:|:------------:| 
 | Hello World       | 10             | x            | Wasif        |
 | Data Types        | 6              | x            | Wasif        |
 | Control Flow      | 0              | .            | Wasif        |

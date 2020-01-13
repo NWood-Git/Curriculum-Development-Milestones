@@ -5,7 +5,7 @@
 ### Introduction and Environment
 
 | Module            | Exercises (10) | Slides       | Developer    |
-|:----------------:|:----------- --:|:------------:|:------------:| 
+|:-----------------:|:----------- --:|:------------:|:------------:| 
 | Hello World       | 10             | x            | Wasif        |
 | Data Types        | 6              | x            | Wasif        |
 | Control Flow      | 0              | .            | Wasif        |
@@ -14,11 +14,11 @@
 
 |    Module         | Exercises (10) |  Slides  | Developer |
 |:-----------------:|:--------------:|:--------:|:---------:|
-| Hello World       |   `+`  |  `5 + 2` |   `7`  |
-| Data Types        |   `-`  |  `5 - 2` |   `3`  |
-| Control Flow      |   `*`  |  `5 * 2` |  `10`  |
-| Functions         |   `/`  |  `5 / 2` |  `2.5` |
-| Complexity Theory |  `**`  | `5 ** 2` |  `25`  |
+| Hello World       | 10             | x        | Wasif     |
+| Data Types        | 6              | x        | Wasif     |
+| Control Flow      | 0              | x        | Wasif     |
+| Functions         | 0              | x        | Wasif     |
+| Complexity Theory | 0              | x        | Wasif     |
 
 ### Introduction to Python
 

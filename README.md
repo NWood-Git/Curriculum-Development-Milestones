@@ -4,7 +4,7 @@
 
 ### Introduction and Environment
 
-|Module            | Exercises (10) | Slides       | Developer    |
+| Module            | Exercises (10) | Slides       | Developer    |
 |:----------------:|:----------- --:|:------------:|:------------:| 
 |Hello World       | 10             | x            | Wasif        |
 |Data Types        | 6              | x            | Wasif        |

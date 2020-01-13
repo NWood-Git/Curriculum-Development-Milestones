@@ -1,4 +1,4 @@
-# Development Milestones
+# Development Milestones - 2.5 %
 
 |    Module              | Progress       | 
 |:----------------------:|:--------------:|
@@ -7,17 +7,21 @@
 | Python Features        | 0              |
 | Data Structures        | 0              |
 | Software Theory        | 0              |
-| Data Management        | 
-| Intro to DS            |
-| Data Management for DS |
-| Descriptive Stats      |
-| Intro to Regression    |
-| Supervised Learning    |
-| Unsupervised Learning  |
-| Deep Learning          |
-| Reinforcement Learning |
-| NLP                    |
-| Vision                 | 
+| Data Management        | 0              |
+| Intro to DS            | 0              |
+| Data Management for DS | 0              |
+| Descriptive Stats      | 0              |
+| Intro to Regression    | 0              |
+| Supervised Learning    | 0              |
+| Unsupervised Learning  | 0              |
+| Deep Learning          | 0              |
+| Reinforcement Learning | 0              |
+| NLP                    | 0              |
+| FS1                    | 0              |
+| FS2                    | 0              |
+| FS3                    | 0              |
+| FS4                    | 0              |
+| FS5                    | 0              |
 
 ## Phase 1
 

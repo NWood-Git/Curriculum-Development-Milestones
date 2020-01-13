@@ -1,6 +1,5 @@
 # Development Milestones - 2.5 %
 
-16,20,23,27,30,3,6,10,13
 |Phase |    Module              | Deadline       | Progress       | 
 |:----:|:----------------------:|:--------------:|:--------------:|
 | 1-CS | Intro and Env          | Jan 23         | 0              |

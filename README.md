@@ -12,9 +12,9 @@
 |Functions         | 0              | .            | Wasif        |
 |Complexity Theory | 0              | .            | Wasif        |
 
-|    Operation   | Syntax |  Example | Result |
+|    Module   | Exercises (10) |  Slides | Developer |
 |:--------------:|:------:|:--------:|:------:|
-|    Addition    |   `+`  |  `5 + 2` |   `7`  |
+|    Hello World    |   `+`  |  `5 + 2` |   `7`  |
 |   Subtraction  |   `-`  |  `5 - 2` |   `3`  |
 | Multiplication |   `*`  |  `5 * 2` |  `10`  |
 |    Division    |   `/`  |  `5 / 2` |  `2.5` |

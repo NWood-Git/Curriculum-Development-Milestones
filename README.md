@@ -27,14 +27,14 @@
 
 ### Introduction and Environment
 
-|    Module         | Exercises (10) |  Content (3)  | Developer |
+|    Section         | Exercises (10) |  Content (3)  | Developer |
 |:-----------------:|:--------------:|:-------------:|:---------:|
 | Intro to CS       | 0              | 0             | 0         |
 | Programming Env   | 0              | 0             | 0         |
 
 ### Introduction to Python
 
-|    Module         | Exercises (10) |  Content (3)  | Developer |
+|    Section         | Exercises (10) |  Content (3)  | Developer |
 |:-----------------:|:--------------:|:-------------:|:---------:|
 | Hello World       | x              | x             | Wasif     |
 | Data Types        | 6              | x             | Wasif     |
@@ -44,7 +44,7 @@
 
 ### Python Features
 
-|    Module         | Exercises (10) |  Content (3)  | Developer |
+|    Section         | Exercises (10) |  Content (3)  | Developer |
 |:-----------------:|:--------------:|:-------------:|:---------:|
 | Context Managers  | 0              | 0             | 0         |
 | Exceptions        | 0              | 0             | 0         |
@@ -52,7 +52,7 @@
 
 ### Data Structures
 
-|    Module          | Exercises (10) |  Content (3)  | Developer |
+|    Section          | Exercises (10) |  Content (3)  | Developer |
 |:------------------:|:--------------:|:-------------:|:---------:|
 | Intro to Recursion | 0              | 0             | 0         |
 | Linked Lists       | 0              | 0             | 0         |
@@ -63,7 +63,7 @@
 
 ### Software Theory
 
-|    Module         | Exercises (10) |  Content (3)  | Developer |
+|    Section        | Exercises (10) |  Content (3)  | Developer |
 |:-----------------:|:--------------:|:-------------:|:---------:|
 | Networking        | 0              | 0             | 0         |
 | Databases         | 0              | 0             | 0         |
@@ -73,7 +73,7 @@
 
 ### Data Management
 
-|    Module          | Exercises (10) |  Content (3)  | Developer |
+|    Section         | Exercises (10) |  Content (3)  | Developer |
 |:------------------:|:--------------:|:-------------:|:---------:|
 | CRUD Operations    | 0              | 0             | Labeeb    |
 | Dataset Operations | 0              | 0             | Labeeb    |
@@ -84,7 +84,7 @@
 
 ### Introduction to Machine Learning
 
-|    Module              | Exercises (10) |  Content (3)  | Developer |
+|    Section              | Exercises (10) |  Content (3)  | Developer |
 |:----------------------:|:--------------:|:-------------:|:---------:|
 | What is ML             | 0              | 0             | Labeeb    |
 | Types of ML            | 0              | 0             | Labeeb    |
@@ -93,7 +93,7 @@
 
 ### Regression
 
-|    Module               | Exercises (10) |  Content (3)  | Developer |
+|    Section               | Exercises (10) |  Content (3)  | Developer |
 |:-----------------------:|:--------------:|:-------------:|:---------:|
 | Intro to Regression     | 0              | 0             | 0         |
 | Logistic Regression     | 0              | 0             | 0         |
@@ -102,7 +102,7 @@
 
 ### Supervised Learning
 
-|    Module               | Exercises (10) |  Content (3)  | Developer |
+|    Section               | Exercises (10) |  Content (3)  | Developer |
 |:-----------------------:|:--------------:|:-------------:|:---------:|
 | K Nearest Neighbors     | 0              | 0             | 0         |
 | Random Forest           | 0              | 0             | 0         |
@@ -110,7 +110,7 @@
   
 ### Unsupervised Learning
 
-|    Module | Exercises (10) |  Content (3)  | Developer |
+|    Section | Exercises (10) |  Content (3)  | Developer |
 |:---------:|:--------------:|:-------------:|:---------:|
 | PCA       | 0              | 0             | 0         |
 | LDA       | 0              | 0             | 0         |
@@ -119,7 +119,7 @@
 
 ### Deep Learning
 
-|    Module                 | Exercises (10) |  Content (3)  | Developer |
+|    Section                 | Exercises (10) |  Content (3)  | Developer |
 |:-------------------------:|:--------------:|:-------------:|:---------:|
 | Intro to Neural Networks  | 0              | 0             | 0         |
 | Feed Forward NN           | 0              | 0             | 0         |
@@ -129,7 +129,7 @@
 
 ### Applications
 
-|    Module            | Exercises (10) |  Content (3)  | Developer |
+|    Section            | Exercises (10) |  Content (3)  | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
 | Intro to NLP         | 0              | 0             | 0         |
 | Time Series Modeling | 0              | 0             | 0         |

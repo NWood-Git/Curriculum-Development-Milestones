@@ -1,4 +1,4 @@
-# Development Milestones - 2.5 %
+# Development Milestones - 3.3 %
 
 |Phase |    Module              | Deadline       | Progress       | 
 |:----:|:----------------------:|:--------------:|:--------------:|

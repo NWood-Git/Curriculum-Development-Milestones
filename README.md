@@ -1,36 +1,33 @@
-# Development Milestones - 3.3 %
+# Development Milestones - 5.5 %
 
 |Phase |    Module              | Deadline       | Progress       | 
 |:----:|:----------------------:|:--------------:|:--------------:|
-| 1-CS | Intro and Env          | Jan 23         | 0              |
-| 1-CS | Intro to Python        | Jan 13         | 66             |
-| 1-CS | Python Features        | Jan 30         | 0              |
-| 1-CS | Data Structures        | Feb 3          | 0              |
-| 1-CS | Software Theory        | Feb 6          | 0              |
-| 1-CS | Data Management        | Feb 10         | 0              |
-| 2-DS | Intro to DS            | Jan 23         | 0              |
-| 2-DS | Data Management for DS | Jan 23         | 0              |
-| 2-DS | Descriptive Stats      | Jan 27         | 0              |
-| 2-DS | Intro to Regression    | Jan 30         | 0              |
-| 2-DS | Supervised Learning    | Jan 30         | 0              |
-| 2-DS | Unsupervised Learning  | Feb 3          | 0              |
-| 2-DS | Deep Learning          | Feb 6          | 0              |
-| 2-DS | Reinforcement Learning | Feb 6          | 0              |
-| 2-DS | Applications           | Feb 10         | 0              |
-| 2-FS | FS1                    | Jan 23         | 0              |
-| 2-FS | FS2                    | Jan 27         | 0              |
-| 2-FS | FS3                    | Jan 30         | 0              |
-| 2-FS | FS4                    | Feb 3          | 0              |
-| 2-FS | FS5                    | Feb 6          | 0              |
+| CS-1 | Intro and Env          | Jan 23         | 0              |
+| CS-2 | Intro to Python        | Jan 13         | 66             |
+| CS-3 | OOP                    | Feb 3          | 0              |
+| CS-4 | Data Structures        | Feb 6          | 16             |
+| CS-5 | Software Theory        | Feb 10         | 0              |
+| DS-1 | Intro to DS            | Jan 23         | 0              |
+| DS-2 | Data Management for DS | Jan 23         | 0              |
+| DS-3 | Descriptive Stats      | Jan 27         | 0              |
+| DS-4 | Intro to Regression    | Jan 30         | 0              |
+| DS-5 | Supervised Learning    | Jan 30         | 0              |
+| FS-1 | FS1                    | Jan 23         | 0              |
+| FS-2 | FS2                    | Jan 27         | 0              |
+| FS-3 | FS3                    | Jan 30         | 0              |
+| FS-4 | FS4                    | Feb 3          | 0              |
+| FS-5 | FS5                    | Feb 6          | 0              |
 
 ## Phase 1
 
 ### Introduction and Environment
 
 |    Section         | Exercises (10) |  Content (3)  | Developer |
-|:-----------------:|:--------------:|:-------------:|:---------:|
-| Intro to CS       | 0              | 0             | 0         |
-| Programming Env   | 0              | 0             | 0         |
+|:------------------:|:--------------:|:-------------:|:---------:|
+| Intro to CS        | 0              | 0             | 0         |
+| IDEs               | 0              | 0             | 0         |
+| Version Control    | 0              | 0             | 0         |
+| The Developers Env | 0              | 0             | 0         |
 
 ### Introduction to Python
 
@@ -42,43 +39,32 @@
 | Functions         | 0              | x             | Wasif     |
 | Complexity Theory | 0              | x             | Wasif     |
 
-### Python Features
+### Object Oriented Programming
 
 |    Section         | Exercises (10) |  Content (3)  | Developer |
-|:-----------------:|:--------------:|:-------------:|:---------:|
-| Context Managers  | 0              | 0             | 0         |
-| Exceptions        | 0              | 0             | 0         |
-| Modules           | 0              | 0             | 0         |
+|:------------------:|:--------------:|:-------------:|:---------:|
+| Basics             | 0              | 0             | 0         |
+| Classes            | 0              | 0             | 0         |
+| Python Features    | 0              | 0             | 0         |
 
 ### Data Structures
 
-|    Section          | Exercises (10) |  Content (3)  | Developer |
-|:------------------:|:--------------:|:-------------:|:---------:|
-| Intro to Recursion | 0              | 0             | 0         |
-| Linked Lists       | 0              | 0             | 0         |
-| Binary Trees       | 0              | 0             | 0         |
-| Hash Tables        | 0              | 0             | 0         |
-| Graphs             | 0              | 0             | 0         |
-| Python Internals   | 0              | 0             | 0         |
+|    Section           | Exercises (10) |  Content (3)  | Developer |
+|:--------------------:|:--------------:|:-------------:|:---------:|
+| Recursive Structures | 0              | 0             | 0         |
+| Linked Lists         | x              | 0             | 0         |
+| Trees                | 6              | 0             | 0         |
+| Graphs               | 0              | 0             | 0         |
 
 ### Software Theory
 
 |    Section        | Exercises (10) |  Content (3)  | Developer |
 |:-----------------:|:--------------:|:-------------:|:---------:|
-| Networking        | 0              | 0             | 0         |
+| Algorithms        | 0              | 0             | 0         |
+| Networks          | 0              | 0             | 0         |
 | Databases         | 0              | 0             | 0         |
 | Testing           | 0              | 0             | 0         |
-| RegEx             | 0              | 0             | 0         |
-
-
-### Data Management
-
-|    Section         | Exercises (10) |  Content (3)  | Developer |
-|:------------------:|:--------------:|:-------------:|:---------:|
-| CRUD Operations    | 0              | 0             | Labeeb    |
-| Dataset Operations | 0              | 0             | Labeeb    |
-| Views              | 0              | 0             | Labeeb    |
-| Visualization      | 0              | 0             | Labeeb    |
+| Data Management   | 0              | x             | 0         |
 
 ## Phase 2 - Data Science
 

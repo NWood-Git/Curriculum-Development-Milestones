@@ -12,11 +12,11 @@
 | DS-3 | Neural Networks         | Jan 27         | 0              |
 | DS-4 | Unsupervised Learning   | Jan 30         | 0              |
 | DS-5 | Machine Learning Theory | Jan 30         | 0              |
-| FS-1 | FS1                     | Jan 23         | 0              |
-| FS-2 | FS2                     | Jan 27         | 0              |
-| FS-3 | FS3                     | Jan 30         | 0              |
-| FS-4 | FS4                     | Feb 3          | 0              |
-| FS-5 | FS5                     | Feb 6          | 0              |
+| FS-1 | Intro To Web Programming| Jan 23         | 0              |
+| FS-2 | JavaScript Fundamentals | Jan 27         | 0              |
+| FS-3 | The React Library       | Jan 30         | 0              |
+| FS-4 | Intermediate React      | Feb 3          | 0              |
+| FS-5 | Building an E2E App     | Feb 6          | 0              |
 
 ## Phase 1
 
@@ -112,4 +112,37 @@
 
 ## Phase 2 - Full Stack
 
-...
+### Introduction to Web Programming
+|    Section             | Exercises (10) |  Content (3)  | Developer |
+|:----------------------:|:--------------:|:-------------:|:---------:|
+| ... | 0              | 0             | 0         |
+| ... | 0              | 0             | 0         |
+| ... | 0              | 0             | 0         |
+
+### JavaScript Fundamentals
+|    Section             | Exercises (10) |  Content (3)  | Developer |
+|:----------------------:|:--------------:|:-------------:|:---------:|
+| ... | 0              | 0             | 0         |
+| ... | 0              | 0             | 0         |
+| ... | 0              | 0             | 0         |
+
+### The React Library
+|    Section             | Exercises (10) |  Content (3)  | Developer |
+|:----------------------:|:--------------:|:-------------:|:---------:|
+| ... | 0              | 0             | 0         |
+| ... | 0              | 0             | 0         |
+| ... | 0              | 0             | 0         |
+
+### Intermediate React
+|    Section             | Exercises (10) |  Content (3)  | Developer |
+|:----------------------:|:--------------:|:-------------:|:---------:|
+| ... | 0              | 0             | 0         |
+| ... | 0              | 0             | 0         |
+| ... | 0              | 0             | 0         |
+
+### Building an End-To-End Application
+|    Section             | Exercises (10) |  Content (3)  | Developer |
+|:----------------------:|:--------------:|:-------------:|:---------:|
+| ... | 0              | 0             | 0         |
+| ... | 0              | 0             | 0         |
+| ... | 0              | 0             | 0         |

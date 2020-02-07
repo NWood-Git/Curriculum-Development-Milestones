@@ -9,15 +9,15 @@
 
 ### Phase 1 - Intro to Software Development - 5 weeks
 * Week 1 - Intro to the development environment
-  * git, jupyter notebook, vs code, unix
+  * Git, jupyter notebook, vs code, unix
 * Week 2 - Intro to Python
-  * data types, control flow, functions, 
+  * Data types, Control flow, Functions
 * Week 3 - Object Oriented Programming
-  * class basics, python classes, dunder methods
+  * Class basics, python classes, dunder methods
 * Week 4 - Data Structures
-  * linked lists, trees, graphs
+  * Linked lists, Trees, Graphs
 * Week 5 - Software Theory
-  * algorithms, networks, databases, testing, data management
+  * Algorithms, Networks, Databases, Testing, Data management
 
 ### Phase 2 - Data Science
 * Week 1 - Intro to ML

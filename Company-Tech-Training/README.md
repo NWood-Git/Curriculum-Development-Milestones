@@ -40,5 +40,7 @@
   * React basics, hooks, fetching data with react
 * Week 4 - Intermediate React
   * third party libraries, CORS, flask
-* Weke 5 - Building an End-to-End application
+* Week 5 - Building an End-to-End application
   * Spryte sprint #1
+
+## Backgrounds

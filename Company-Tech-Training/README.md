@@ -1,5 +1,8 @@
 # Company Technical Training
 
+* Weekly 1hr classes + exercises
+* Must pass exercises!
+
 ## Programs
 
 * Full stack

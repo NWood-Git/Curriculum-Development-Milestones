@@ -21,3 +21,4 @@
   * Interview prep
   * Networking
 * Learn software basics to help assist with overall responsibilities
+* Sign up students for both programs

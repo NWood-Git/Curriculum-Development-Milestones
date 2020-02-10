@@ -1,5 +1,7 @@
 # Day-To-Day
 
+* Hire Anton!
+
 ## Responsibilities
 
 * Email companies for potential partnerships

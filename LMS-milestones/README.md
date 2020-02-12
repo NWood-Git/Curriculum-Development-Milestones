@@ -4,6 +4,7 @@
 * Progress page
 * Slides page
 * Exercises page
+* Survey page
 
 ## Home Page
 

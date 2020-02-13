@@ -5,16 +5,28 @@
 * Can provide skills breakdown with strengths and weaknesses
 * Can recommend related problems
 
-### Dimensions
+## Networks
 * Student Survey Results
-  * Student states he didn't understand => recommendation
 * Cohort Survey Results
-  * Cohort states they didn't understand => recommendation
 * Student Assessment Grades
-  * Poor grades => recommendation
 * Cohort Assessment Grades
-  * Poor grades => recommendation
-  * Good grades +> strength
+* Aggregate Assessment Grades
+
+## Outputs
+* Strengths
+* Weaknesses/Recommendations
+
+
+## Phase 1 Networks
+
+### Student survey network
+### Student + cohort survey network
+### Student assessment network
+### Cohort assessment network
+
+### Phase 2 Full Stack Networks
+
+### Phase 2 Data Science Networks
 
 ## Instructor AI
 

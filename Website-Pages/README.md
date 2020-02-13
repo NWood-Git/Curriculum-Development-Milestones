@@ -25,7 +25,10 @@ Spryte is where you actualize your knowledge on real world projects. Upon gradua
 
 # Data Science Page
 ## Home Section
-* Why Data Science
+Data Science is a discipline concerned with finding meaningful patterns in complex data. Data is everywhere today and most companies are hungry to find patterns in the data. Whether it's determining how a stock price will change or finding the relationship between diapers and crib sales to determine buying patterns in mothers, the applications are endless.
+
+The goal of this program is to teach you the theoretical ideas to exact meaningful patterns, as well as the applied coding skills to turn this theory into practice. The program is intense but produces quality data scientists able to get jobs at most major companies.
+
 ## Program Economics
 * Cost
 * Job Salaries

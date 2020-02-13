@@ -22,7 +22,7 @@
 
 ### Introduction and Environment
 
-|    Section         | Exercises (10) |  Content (3)  | Developer |
+|    Section         | Exercises      |  Content      | Developer |
 |:------------------:|:--------------:|:-------------:|:---------:|
 | Intro to CS        | 0              | 0             | 0         |
 | IDEs               | 0              | 0             | 0         |
@@ -31,7 +31,7 @@
 
 ### Introduction to Python
 
-|    Section         | Exercises (10) |  Content (3)  | Developer |
+|    Section         | Exercises      |  Content      | Developer |
 |:-----------------:|:--------------:|:-------------:|:---------:|
 | Hello World       | x              | x             | Wasif     |
 | Data Types        | 6              | x             | Wasif     |
@@ -41,7 +41,7 @@
 
 ### Object Oriented Programming
 
-|    Section         | Exercises (10) |  Content (3)  | Developer |
+|    Section         | Exercises      |  Content      | Developer |
 |:------------------:|:--------------:|:-------------:|:---------:|
 | Basics             | 0              | 0             | 0         |
 | Classes            | 0              | 0             | 0         |
@@ -49,7 +49,7 @@
 
 ### Data Structures
 
-|    Section           | Exercises (10) |  Content (3)  | Developer |
+|    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
 | Recursive Structures | 0              | 0             | 0         |
 | Linked Lists         | x              | 0             | 0         |
@@ -58,7 +58,7 @@
 
 ### Software Theory
 
-|    Section        | Exercises (10) |  Content (3)  | Developer |
+|    Section        | Exercises      |  Content      | Developer |
 |:-----------------:|:--------------:|:-------------:|:---------:|
 | Algorithms        | 0              | 0             | 0         |
 | Networks          | 0              | 0             | 0         |
@@ -70,7 +70,7 @@
 
 ### Introduction to Machine Learning
 
-|    Section              | Exercises (10) |  Content (3)  | Developer |
+|    Section              | Exercises      |  Content      | Developer |
 |:----------------------:|:--------------:|:-------------:|:---------:|
 | What is ML             | 0              | 0             | Labeeb    |
 | Math Prereqs           | 0              | 0             | Labeeb    |
@@ -79,7 +79,7 @@
 
 ### Supervised Learning
 
-|    Section               | Exercises (10) |  Content (3)  | Developer |
+|    Section               | Exercises      |  Content      | Developer |
 |:-----------------------:|:--------------:|:-------------:|:---------:|
 | K-NN                    | 0              | 0             | 0         |
 | Decision Trees          | 0              | 0             | 0         |
@@ -87,7 +87,7 @@
 
 ### Neural Networks
 
-|    Section              | Exercises (10) |  Content (3)  | Developer |
+|    Section              | Exercises      |  Content      | Developer |
 |:-----------------------:|:--------------:|:-------------:|:---------:|
 | Feed-Forward NN         | 0              | 0             | 0         |
 | Convolutional NN        | 0              | 0             | 0         |
@@ -95,7 +95,7 @@
   
 ### Unsupervised Learning
 
-|   Section | Exercises (10) |  Content (3)  | Developer |
+|   Section | Exercises      |  Content      | Developer |
 |:---------:|:--------------:|:-------------:|:---------:|
 | GAN       | 0              | 0             | 0         |
 | K-Means   | 0              | 0             | 0         |
@@ -104,7 +104,7 @@
 
 ### Machine Learning Theory
 
-|    Section             | Exercises (10) |  Content (3)  | Developer |
+|    Section             | Exercises      |  Content      | Developer |
 |:----------------------:|:--------------:|:-------------:|:---------:|
 | VC-Dimension           | 0              | 0             | 0         |
 | Ensemble Learning      | 0              | 0             | 0         |
@@ -113,36 +113,36 @@
 ## Phase 2 - Full Stack
 
 ### Introduction to Web Programming
-|    Section             | Exercises (10) |  Content (3)  | Developer |
-|:----------------------:|:--------------:|:-------------:|:---------:|
+|    Section           | Exercises      |  Content      | Developer |
+|:--------------------:|:--------------:|:-------------:|:---------:|
 | ... | 0              | 0             | 0         |
 | ... | 0              | 0             | 0         |
 | ... | 0              | 0             | 0         |
 
 ### JavaScript Fundamentals
-|    Section             | Exercises (10) |  Content (3)  | Developer |
-|:----------------------:|:--------------:|:-------------:|:---------:|
+|    Section           | Exercises      |  Content      | Developer |
+|:--------------------:|:--------------:|:-------------:|:---------:|
 | ... | 0              | 0             | 0         |
 | ... | 0              | 0             | 0         |
 | ... | 0              | 0             | 0         |
 
-### The React Library
-|    Section             | Exercises (10) |  Content (3)  | Developer |
-|:----------------------:|:--------------:|:-------------:|:---------:|
+### The React  Library
+|    Section           | Exercises      |  Content      | Developer |
+|:--------------------:|:--------------:|:-------------:|:---------:|
 | ... | 0              | 0             | 0         |
 | ... | 0              | 0             | 0         |
 | ... | 0              | 0             | 0         |
 
 ### Intermediate React
-|    Section             | Exercises (10) |  Content (3)  | Developer |
-|:----------------------:|:--------------:|:-------------:|:---------:|
+|    Section           | Exercises      |  Content      | Developer |
+|:--------------------:|:--------------:|:-------------:|:---------:|
 | ... | 0              | 0             | 0         |
 | ... | 0              | 0             | 0         |
 | ... | 0              | 0             | 0         |
 
 ### Building an End-To-End Application
-|    Section             | Exercises (10) |  Content (3)  | Developer |
-|:----------------------:|:--------------:|:-------------:|:---------:|
+|    Section           | Exercises      |  Content      | Developer |
+|:--------------------:|:--------------:|:-------------:|:---------:|
 | ... | 0              | 0             | 0         |
 | ... | 0              | 0             | 0         |
 | ... | 0              | 0             | 0         |

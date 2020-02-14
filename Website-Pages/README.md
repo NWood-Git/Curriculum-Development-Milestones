@@ -30,11 +30,27 @@ Data Science is a discipline concerned with finding meaningful patterns in compl
 The goal of this program is to teach you the theoretical ideas to exact meaningful patterns, as well as the applied coding skills to turn this theory into practice. The program is intense but produces quality data scientists able to get jobs at most major companies.
 
 ## Program Economics
-* Cost
+* Our in-person program costs $14
 * Job Salaries
 ## Program Structure
-* Week-To-Week
-* Day-To-Day
+* The week to week structure should be outlined in a visual as shown [here](https://github.com/ByteAcademyCo/Curriculum-Development-Milestones/blob/master/Website-Pages/visual1.png) and [here](https://github.com/ByteAcademyCo/Curriculum-Development-Milestones/blob/master/Website-Pages/visual2.png)
+* The content for that visual is below:
+### Full-Stack Development
+* Weeks 1-5 - Computer Science Fundamentals
+* Weeks 6-10 - Web Development
+* Weeks 11-14 - Large-Scale Project
+
+### Data Science
+* Weeks 1-5 - Computer Science Fundamentals
+* Weeks 6-10 - Machine Learning
+* Weeks 11-14 - Large-Scale Project
+
+### Day-To-Day
+* 1.5 hour lecture
+* 1 hour lunch
+* 4.5 hour exercises
+* 1 hour 1on1 help
+
 ## Topics Covered
 * Modules and Topics
 ## Careers

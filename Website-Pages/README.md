@@ -16,7 +16,7 @@ As fun and interesting theory is, our goal at Byte is to get people jobs. Theref
 * Real-World Experience - Spryte is our internship wing where, upon graduation - you will have an opportunity to gain the critical real-world experience you need for your first job 
 
 ## Aiza- Personal AI Tutor
-Meet Aiza - your personal AI tutor. As you progress through the course, Aiza closely monitors your assessments, exercises alongside asking you what topics you think you're strong and weak at. It uses this information to design a customized learning experienceto help strengthen the exact areas you are weak at!
+Meet Aiza - your personal AI tutor. As you progress through the course, Aiza closely monitors your assessments, exercises alongside asking you what topics you think you're strong and weak at. It uses this information to design a customized learning experience to help strengthen the exact areas you are weak at!
 
 Alongside helping customize our content for you, Aiza will also make your teaching staff aware of any technical shortcomings that may be present. So if you're ever lost and don't know how to ask for help, don't worry - we'll come to you.
 

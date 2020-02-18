@@ -30,8 +30,8 @@ Data Science is a discipline concerned with finding meaningful patterns in compl
 The goal of this program is to teach you the theoretical ideas to exact meaningful patterns, as well as the applied coding skills to turn this theory into practice. The program is intense but produces quality data scientists able to get jobs at most major companies.
 
 ## Program Economics
-* Our in-person program costs $14
-* Job Salaries
+The cost of our in-person and online program are $15,000 and $7,500 respectively. The programs are structured exactly the same, the only difference between them is whether the material is covered is online or in-person. There is evidence that in-person learning yields greater results than online due to the quality of live support and general motivation hence the discrepancy in the costs, even with the same program.
+
 ## Program Structure
 * The week to week structure should be outlined in a visual as shown [here](https://github.com/ByteAcademyCo/Curriculum-Development-Milestones/blob/master/Website-Pages/visual1.png) and [here](https://github.com/ByteAcademyCo/Curriculum-Development-Milestones/blob/master/Website-Pages/visual2.png)
 * The content for that visual is below:

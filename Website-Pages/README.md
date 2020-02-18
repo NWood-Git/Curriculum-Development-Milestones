@@ -35,15 +35,7 @@ The goal of this program is to teach you the theoretical ideas to exact meaningf
 ## Program Structure
 * The week to week structure should be outlined in a visual as shown [here](https://github.com/ByteAcademyCo/Curriculum-Development-Milestones/blob/master/Website-Pages/visual1.png) and [here](https://github.com/ByteAcademyCo/Curriculum-Development-Milestones/blob/master/Website-Pages/visual2.png)
 * The content for that visual is below:
-### Full-Stack Development
-* Weeks 1-5 - Computer Science Fundamentals
-Students should be fully comfortable with the Python programming language after completion of this phase. This ranges from understanding the built-in syntax and semantics to leveraging powerful libraries to build complex applications designed to solve a broad range of problems. Students should also have an introductory understanding to most domains within software engineering including data structures, networking, databases and more.
-* Weeks 6-10 - Web Development
-Students should be comfortable creating an interactive, dynamic frontend supporting RESTful interaction with a Python web server, using either HTML, CSS, and JS or the ReactJS framework. Students should understand what a web server is, how they work, and how a web server can integrate with other microservices. They should also understand the basics of HTML, CSS, the Document Object Model, JavaScript, and how the React framework uses JavaScript to manipulate the DOM using a single language/syntax. Students graduating this phase should be able to create a fully functional front-end, and should be ready to create a full stack web application that can interact with a database, acquire data dynamically from a third-party RESTful web API, and has a visually appealing, interactive web front-end.
-* Weeks 11-14 - Large-Scale Project
-Students will simulate a real-world environment and work on a large-scale project in a field they are interested in. Successful completion of this phase will result in developing a complete machine learning model on an application with some real world use cases.
-
-### Data Science
+### Contents
 * Weeks 1-5 - Computer Science Fundamentals
 Students should be fully comfortable with the Python programming language after completion of this phase. This ranges from understanding the built-in syntax and semantics to leveraging powerful libraries to build complex applications designed to solve a broad range of problems. Students should also have an introductory understanding to most domains within software engineering including data structures, networking, databases and more.
 * Weeks 6-10 - Machine Learning

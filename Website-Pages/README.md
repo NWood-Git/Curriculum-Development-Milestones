@@ -107,9 +107,6 @@ Jobs within the field of data science typically pay quite well. An average entry
 Job titles differ drastically from company to company so the above two categories encompass a host of job titles, the ones listed are simply the most common.
 
 ## Instructors
-* Pictures
-* Short blurb about them
-## More Information
-* Email
-* Phone
-* Sign up
+* Pictures of Greg, Wasif
+* Short blurb about each, can take from previous website
+

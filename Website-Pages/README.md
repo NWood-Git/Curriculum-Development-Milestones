@@ -74,6 +74,7 @@ Each day will consist of 7 hours divided into 4 sections. We begin each day with
   * Databases
   * Testing
   * Data Management
+  
 **Phase 2 - Machine Learning**
 * Week 1 - Introduction to Data Science
   * Intro to Machine Learning

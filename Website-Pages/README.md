@@ -1,7 +1,7 @@
 # Home Page
 * ByteAcademy - Personalized Applied Learning
-* Aiza - Personal AI Tutor
-* Spryte - Applied Experience
+  * Aiza - Personal AI Tutor
+  * Spryte - Applied Experience
 
 ## ByteAcademy - Personalized Applied learning
 

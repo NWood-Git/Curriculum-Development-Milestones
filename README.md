@@ -115,34 +115,34 @@
 ### Introduction to Web Programming
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
-| ... | 0              | 0             | 0         | Greg^2
-| ... | 0              | 0             | 0         | Greg^2
-| ... | 0              | 0             | 0         | Greg^2
+| ...                  | 0              | 0             | Greg^2    | 
+| ...                  | 0              | 0             | Greg^2    | 
+| ...                  | 0              | 0             | Greg^2    | 
 
 ### JavaScript Fundamentals
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
-| ... | 0              | 0             | Greg^2         |
-| ... | 0              | 0             | Greg^2         |
-| ... | 0              | 0             | Greg^2         | 
+| ...                  | 0              | 0             | Greg^2    |
+| ...                  | 0              | 0             | Greg^2    |
+| ...                  | 0              | 0             | Greg^2    | 
 
 ### The React  Library
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
-| ... | 0              | 0             | Greg^2         |
-| ... | 0              | 0             | Greg^2         |
-| ... | 0              | 0             | Greg^2         |
+| ...                  | 0              | 0             | Greg^2    |
+| ...                  | 0              | 0             | Greg^2    |
+| ...                  | 0              | 0             | Greg^2    |
 
 ### Intermediate React
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
-| ... | 0              | 0             | Greg^2         |
-| ... | 0              | 0             | Greg^2         |
-| ... | 0              | 0             | Greg^2         |
+| ...                  | 0              | 0             | Greg^2    |
+| ...                  | 0              | 0             | Greg^2    |
+| ...                  | 0              | 0             | Greg^2    |
 
 ### Building an End-To-End Application
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
-| ... | 0              | 0             | Greg^2         |
-| ... | 0              | 0             | Greg^2         |
-| ... | 0              | 0             | Greg^2         |
+| ...                  | 0              | 0             | Greg^2    |
+| ...                  | 0              | 0             | Greg^2    |
+| ...                  | 0              | 0             | Greg^2    |

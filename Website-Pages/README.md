@@ -52,13 +52,58 @@ This phase deals with understanding the fundamentals machine learning. Upon succ
 Students will simulate a real-world environment and work on a large-scale project in a field they are interested in. Successful completion of this phase will result in developing a complete machine learning model on an application with some real world use cases.
 
 ### Day-To-Day
-* 1.5 hour lecture
-* 1 hour lunch
-* 4.5 hour exercises
-* 1 hour 1on1 help
+Each day will consist of 7 hours divided into 4 sections. We begin each day with a 1.5hour lecture from 10AM-11:30AM followed by half an hour of a Q&A session with the instructor. Following a 1hour lunch at 12:00PM, students are given 3.5hours to work on exercises for the material covered. The day ends with a 1 hour of help split between 1on1 tutoring and group studies. The day officially ends at 5:00PM but students are allowed to stay late to finish exercises or get a head-start on the next days material.
 
 ## Topics Covered
-* Modules and Topics
+**Phase 1 - Computer Science Fundamentals**
+* Week 1 - Introduction and Environment
+  * Development Environments (VSCode, Juypter Notebook)
+  * Github and git
+  * Operating Systems and Unix
+* Week 2 - Introduction to Python
+  * Data Types
+  * Control Flow
+  * Functions
+  * Complexity Theory
+* Week 3 - Object Oriented Programming
+  * Design Considerations
+  * Classes
+  * Modules
+  * Context Managers
+  * Exceptions
+* Week 4 - Data Structures
+  * Recursive Structures
+  * Linked List
+  * Tree
+  * Graph
+* Week 5 - Software Theory
+  * Algorithms
+  * Networks
+  * Databases
+  * Testing
+  * Data Management
+**Phase 2 - Machine Learning**
+* Week 1 - Introduction to Data Science
+  * Intro to Machine Learning
+  * Math Prerequisites (Calculus, Linear Algebra, Statistics)
+  * Regression
+  * Model Analysis
+* Week 2 - Supervised Learning
+  * K Nearest Neighbors
+  * Decision Trees & XGBoost
+  * Intro to Neural Networks
+* Week 3 - Neural Networks
+  * Feed-forward Neural Network
+  * Convolutional Neural Networks
+  * Recurrent Neural Networks
+* Week 4 - Unsupervised Learning
+  * K-Means Clustering
+  * Principal Component Analysis
+  * Autoencoders
+* Week 5 - Machine Learning Theory
+  * VC-Dimension
+  * Reinforement Learning
+
 ## Careers
 * Job availabiilty
 * Job security

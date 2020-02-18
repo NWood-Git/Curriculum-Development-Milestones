@@ -97,18 +97,18 @@
 
 |   Section | Exercises      |  Content      | Developer |
 |:---------:|:--------------:|:-------------:|:---------:|
-| GAN       | 0              | 0             | 0         |
-| K-Means   | 0              | 0             | 0         |
-| PCA       | 0              | 0             | 0         |
-| LDA       | 0              | 0             | 0         |
+| GAN       | 0              | 0             | Labeeb    |
+| K-Means   | 0              | 0             | Labeeb    |
+| PCA       | 0              | 0             | Labeeb    |
+| LDA       | 0              | 0             | Labeeb    |
 
 ### Machine Learning Theory
 
 |    Section             | Exercises      |  Content      | Developer |
 |:----------------------:|:--------------:|:-------------:|:---------:|
-| VC-Dimension           | 0              | 0             | 0         |
-| Ensemble Learning      | 0              | 0             | 0         |
-| Reinforcement Learning | 0              | 0             | 0         |
+| VC-Dimension           | 0              | 0             | Wasif     |
+| Ensemble Learning      | 0              | 0             | Wasif     |
+| Reinforcement Learning | 0              | 0             | Wasif     |
 
 ## Phase 2 - Full Stack
 

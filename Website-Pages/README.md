@@ -103,8 +103,10 @@ Jobs within the field of data science typically pay quite well. An average entry
   * Jobs with this title typically involve the whole domain of data science. You will be working on extracting data, analyzing this data for meaningful relationships as well as visualizing this data for non-technical staff.
 * Backend Developer/Data Management Engineer
   * Jobs with this title typically focus on the earlier stages of machine learning. As the company gets larger and data grows exponentially, it becomes unrealistic for one person to do all work a data scientist does. This role focuses on collecting data, aggregating data and design considerations on how to store this data most efficiently. 
-
-Job titles differ drastically from company to company so the above two categories encompass a host of job titles, the ones listed are simply the most common.
+* Data Analyst
+  * Jobs with this title typically focus on the later stages of machine learning. Again, as companies get large, it becomes unrealistic for one person to do all the work a data scientist does. This role focuses on taking the aggregted data collected from Data Management Engineers and applying machine learning models to extract patterns in the data. 
+  
+Job titles differ drastically from company to company so the above three categories encompass a host of job titles, the ones listed are simply the most common.
 
 ## Instructors
 * Pictures of Greg, Wasif

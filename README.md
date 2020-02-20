@@ -1,11 +1,11 @@
-# Development Milestones - 5.5 %
+# Development Milestones - 5.7 %
 
 |Phase |    Module               | Deadline       | Progress       | 
 |:----:|:-----------------------:|:--------------:|:--------------:|
 | CS-1 | Intro and Env           | Feb 28         | 0              |
 | CS-2 | Intro to Python         | Jan 13         | 66             |
 | CS-3 | OOP                     | Mar 6          | 0              |
-| CS-4 | Data Structures         | Mar 13         | 16             |
+| CS-4 | Data Structures         | Mar 13         | 20             |
 | CS-5 | Software Theory         | Mar 20         | 0              |
 | DS-1 | Intro to DS             | Feb 28         | 0              |
 | DS-2 | Supervised Learning     | Mar 6          | 0              |

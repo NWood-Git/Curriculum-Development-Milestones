@@ -15,62 +15,147 @@ mycursor.execute("""CREATE TABLE students (
                       name          VARCHAR(255)
                      );""")
 
-mycursor.execute("""CREATE TABLE grades_hello_world (
-                      stud_id           INTEGER PRIMARY KEY,
-                      arithmetic        INTEGER,
-                      name_bindings     INTEGER,
-                      operators         INTEGER,
-                      python_caches     INTEGER,
-                      string_arithmetic INTEGER,
-                      user_input        INTEGER,
+mycursor.execute("""CREATE TABLE grades_algorithms (
+                      stud_id   INTEGER PRIMARY KEY,
+                      easy_e1   INTEGER,
+                      easy_e2   INTEGER,
+                      easy_e3   INTEGER,
+                      easy_e4   INTEGER,
+                      easy_e5   INTEGER,
+                      easy_e6   INTEGER,
+                      easy_e7   INTEGER,
+                      easy_e8   INTEGER,
+                      easy_e9   INTEGER,
+                      med_e1    INTEGER,
+                      med_e2    INTEGER,
+                      med_e3    INTEGER,
+                      med_e4    INTEGER,
+                      med_e5    INTEGER,
+                      med_e6    INTEGER,
+                      hard_e1   INTEGER,
+                      hard_e2   INTEGER,
+                      hard_e3   INTEGER,
                       FOREIGN KEY   (stud_id)
                         REFERENCES  students (id) 
                      );""")
                      
-mycursor.execute("""CREATE TABLE grades_data_types (
-                      stud_id           INTEGER PRIMARY KEY,
-                      arithmetic        INTEGER,
-                      name_bindings     INTEGER,
-                      operators         INTEGER,
-                      python_caches     INTEGER,
-                      string_arithmetic INTEGER,
-                      user_input        INTEGER,
+mycursor.execute("""CREATE TABLE grades_networks (
+                      stud_id   INTEGER PRIMARY KEY,
+                      easy_e1   INTEGER,
+                      easy_e2   INTEGER,
+                      easy_e3   INTEGER,
+                      easy_e4   INTEGER,
+                      easy_e5   INTEGER,
+                      easy_e6   INTEGER,
+                      easy_e7   INTEGER,
+                      easy_e8   INTEGER,
+                      easy_e9   INTEGER,
+                      med_e1    INTEGER,
+                      med_e2    INTEGER,
+                      med_e3    INTEGER,
+                      med_e4    INTEGER,
+                      med_e5    INTEGER,
+                      med_e6    INTEGER,
+                      hard_e1   INTEGER,
+                      hard_e2   INTEGER,
+                      hard_e3   INTEGER,
                       FOREIGN KEY   (stud_id)
                         REFERENCES  students (id) 
                      );""")
 
 mycursor.execute("""CREATE TABLE grades_control_flow (
-                      stud_id           INTEGER PRIMARY KEY,
-                      arithmetic        INTEGER,
-                      name_bindings     INTEGER,
-                      operators         INTEGER,
-                      python_caches     INTEGER,
-                      string_arithmetic INTEGER,
-                      user_input        INTEGER,
+                      stud_id   INTEGER PRIMARY KEY,
+                      easy_e1   INTEGER,
+                      easy_e2   INTEGER,
+                      easy_e3   INTEGER,
+                      easy_e4   INTEGER,
+                      easy_e5   INTEGER,
+                      easy_e6   INTEGER,
+                      easy_e7   INTEGER,
+                      easy_e8   INTEGER,
+                      easy_e9   INTEGER,
+                      med_e1    INTEGER,
+                      med_e2    INTEGER,
+                      med_e3    INTEGER,
+                      med_e4    INTEGER,
+                      med_e5    INTEGER,
+                      med_e6    INTEGER,
+                      hard_e1   INTEGER,
+                      hard_e2   INTEGER,
+                      hard_e3   INTEGER,
                       FOREIGN KEY   (stud_id)
                         REFERENCES  students (id) 
                      );""")
 
-mycursor.execute("""CREATE TABLE grades_functions (
-                      stud_id           INTEGER PRIMARY KEY,
-                      arithmetic        INTEGER,
-                      name_bindings     INTEGER,
-                      operators         INTEGER,
-                      python_caches     INTEGER,
-                      string_arithmetic INTEGER,
-                      user_input        INTEGER,
+mycursor.execute("""CREATE TABLE grades_databases (
+                      stud_id   INTEGER PRIMARY KEY,
+                      easy_e1   INTEGER,
+                      easy_e2   INTEGER,
+                      easy_e3   INTEGER,
+                      easy_e4   INTEGER,
+                      easy_e5   INTEGER,
+                      easy_e6   INTEGER,
+                      easy_e7   INTEGER,
+                      easy_e8   INTEGER,
+                      easy_e9   INTEGER,
+                      med_e1    INTEGER,
+                      med_e2    INTEGER,
+                      med_e3    INTEGER,
+                      med_e4    INTEGER,
+                      med_e5    INTEGER,
+                      med_e6    INTEGER,
+                      hard_e1   INTEGER,
+                      hard_e2   INTEGER,
+                      hard_e3   INTEGER,
                       FOREIGN KEY   (stud_id)
                         REFERENCES  students (id) 
                      );""")
                      
-mycursor.execute("""CREATE TABLE grades_complexity_theory (
-                      stud_id           INTEGER PRIMARY KEY,
-                      arithmetic        INTEGER,
-                      name_bindings     INTEGER,
-                      operators         INTEGER,
-                      python_caches     INTEGER,
-                      string_arithmetic INTEGER,
-                      user_input        INTEGER,
+mycursor.execute("""CREATE TABLE grades_testing (
+                      stud_id   INTEGER PRIMARY KEY,
+                      easy_e1   INTEGER,
+                      easy_e2   INTEGER,
+                      easy_e3   INTEGER,
+                      easy_e4   INTEGER,
+                      easy_e5   INTEGER,
+                      easy_e6   INTEGER,
+                      easy_e7   INTEGER,
+                      easy_e8   INTEGER,
+                      easy_e9   INTEGER,
+                      med_e1    INTEGER,
+                      med_e2    INTEGER,
+                      med_e3    INTEGER,
+                      med_e4    INTEGER,
+                      med_e5    INTEGER,
+                      med_e6    INTEGER,
+                      hard_e1   INTEGER,
+                      hard_e2   INTEGER,
+                      hard_e3   INTEGER,
                       FOREIGN KEY   (stud_id)
                         REFERENCES  students (id) 
                      );""")                     
+
+mycursor.execute("""CREATE TABLE grades_data_management (
+                      stud_id   INTEGER PRIMARY KEY,
+                      easy_e1   INTEGER,
+                      easy_e2   INTEGER,
+                      easy_e3   INTEGER,
+                      easy_e4   INTEGER,
+                      easy_e5   INTEGER,
+                      easy_e6   INTEGER,
+                      easy_e7   INTEGER,
+                      easy_e8   INTEGER,
+                      easy_e9   INTEGER,
+                      med_e1    INTEGER,
+                      med_e2    INTEGER,
+                      med_e3    INTEGER,
+                      med_e4    INTEGER,
+                      med_e5    INTEGER,
+                      med_e6    INTEGER,
+                      hard_e1   INTEGER,
+                      hard_e2   INTEGER,
+                      hard_e3   INTEGER,
+                      FOREIGN KEY   (stud_id)
+                        REFERENCES  students (id) 
+                     );""") 
+

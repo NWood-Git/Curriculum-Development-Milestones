@@ -54,6 +54,7 @@
 
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
+| Complex Data         | 0              | 0             | Anton     |
 | Recursive Structures | 0              | 0             | Anton     |
 | Linked Lists         | x              | 0             | Anton     |
 | Trees                | 6              | 0             | Anton     |

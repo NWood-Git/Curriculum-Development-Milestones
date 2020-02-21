@@ -46,7 +46,9 @@
 |:------------------:|:--------------:|:-------------:|:---------:|
 | Basics             | 0              | 0             | Anton     |
 | Classes            | 0              | 0             | Anton     |
-| Python Features    | 0              | 0             | Anton     |
+| Context Managers   | 0              | 0             | Anton     |
+| Exceptions         | 0              | 0             | Anton     |
+| Modules            | 0              | 0             | Anton     |
 
 ### Data Structures
 

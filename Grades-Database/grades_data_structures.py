@@ -15,7 +15,7 @@ mycursor.execute("""CREATE TABLE students (
                       name          VARCHAR(255)
                      );""")
 
-mycursor.execute("""CREATE TABLE grades_complex_structures (
+mycursor.execute("""CREATE TABLE grades_complex_data (
                       stud_id   INTEGER PRIMARY KEY,
                       easy_e1   INTEGER,
                       easy_e2   INTEGER,

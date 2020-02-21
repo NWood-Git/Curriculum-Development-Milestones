@@ -22,16 +22,17 @@
 
 ### Introduction and Environment
 
-|    Section         | Exercises      |  Content      | Developer |
-|:------------------:|:--------------:|:-------------:|:---------:|
-| Intro to CS        | 0              | 0             | Anton     |
-| IDEs               | 0              | 0             | Anton     |
-| Version Control    | 0              | 0             | Anton     |
-| The Developers Env | 0              | 0             | Anton     |
+|    Section           | Exercises      |  Content      | Developer |
+|:--------------------:|:--------------:|:-------------:|:---------:|
+| Intro to CS          | 0              | 0             | Anton     |
+| IDEs                 | 0              | 0             | Anton     |
+| Intro to Computation | 0              | 0             | Anton     |
+| Version Control      | 0              | 0             | Anton     |
+| The Developers Env   | 0              | 0             | Anton     |
 
 ### Introduction to Python
 
-|    Section         | Exercises      |  Content      | Developer |
+|    Section        | Exercises      |  Content      | Developer |
 |:-----------------:|:--------------:|:-------------:|:---------:|
 | Hello World       | x              | x             | Wasif     |
 | Data Types        | 6              | x             | Wasif     |

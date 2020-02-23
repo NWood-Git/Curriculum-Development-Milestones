@@ -1,23 +1,20 @@
 # Milestones for LMS
 
 * Home page
-* Progress page
-* Slides page
-* Exercises page
+* Content page
 * Survey page
 
 ## Home Page
 
-..
+* Graph displaying progress of student in course
+* Settings to update username/password/display pic/etc...
 
-## Progress Page
 
-..
+## Content page
 
-## Slides page
+* Summarize slides
+* Summarize exercises
 
-..
+## Survey page
 
-## Exercises page
-
-..
+* Display exercises week-by-week

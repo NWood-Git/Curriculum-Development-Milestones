@@ -70,7 +70,7 @@
 | Testing           | 0              | 0             | Anton     |
 | Data Management   | 0              | x             | Anton     |
 
-## Phase 2 - Data Science
+## Phase 2 - Machine Learning
 
 ### Introduction to Machine Learning
 

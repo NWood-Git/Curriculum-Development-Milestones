@@ -7,7 +7,7 @@
 | CS-3 | OOP                     | Mar 6          | 0              |
 | CS-4 | Data Structures         | Mar 13         | 20             |
 | CS-5 | Software Theory         | Mar 20         | 0              |
-| DS-1 | Intro to DS             | Feb 28         | 0              |
+| DS-1 | Intro to ML             | Feb 28         | 0              |
 | DS-2 | Supervised Learning     | Mar 6          | 0              |
 | DS-3 | Neural Networks         | Mar 13         | 0              |
 | DS-4 | Unsupervised Learning   | Mar 20         | 0              |

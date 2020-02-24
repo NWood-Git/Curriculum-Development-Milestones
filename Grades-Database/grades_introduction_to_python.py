@@ -25,7 +25,7 @@ mycursor.execute("""CREATE TABLE grades_hello_world (
                       hard_e1   INTEGER,
                       hard_e2   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")
                      
 mycursor.execute("""CREATE TABLE grades_data_types (
@@ -44,7 +44,7 @@ mycursor.execute("""CREATE TABLE grades_data_types (
                       hard_e1   INTEGER,
                       hard_e2   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")
 
 mycursor.execute("""CREATE TABLE grades_control_flow (
@@ -68,7 +68,7 @@ mycursor.execute("""CREATE TABLE grades_control_flow (
                       hard_e2   INTEGER,
                       hard_e3   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")
 
 mycursor.execute("""CREATE TABLE grades_functions (
@@ -110,7 +110,7 @@ mycursor.execute("""CREATE TABLE grades_functions (
                       hard_e5   INTEGER,
                       hard_e6   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")
                      
 mycursor.execute("""CREATE TABLE grades_complexity_theory (
@@ -134,5 +134,5 @@ mycursor.execute("""CREATE TABLE grades_complexity_theory (
                       hard_e2   INTEGER,
                       hard_e3   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")                     

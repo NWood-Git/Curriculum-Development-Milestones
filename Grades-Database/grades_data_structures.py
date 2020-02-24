@@ -36,7 +36,7 @@ mycursor.execute("""CREATE TABLE grades_complex_data (
                       hard_e2   INTEGER,
                       hard_e3   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")
                      
 mycursor.execute("""CREATE TABLE grades_recursive_structures (
@@ -60,7 +60,7 @@ mycursor.execute("""CREATE TABLE grades_recursive_structures (
                       hard_e2   INTEGER,
                       hard_e3   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")
 
 mycursor.execute("""CREATE TABLE grades_linked_lists (
@@ -84,7 +84,7 @@ mycursor.execute("""CREATE TABLE grades_linked_lists (
                       hard_e2   INTEGER,
                       hard_e3   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")
 
 mycursor.execute("""CREATE TABLE grades_trees (
@@ -108,7 +108,7 @@ mycursor.execute("""CREATE TABLE grades_trees (
                       hard_e2   INTEGER,
                       hard_e3   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")
                      
 mycursor.execute("""CREATE TABLE grades_graphs (
@@ -132,5 +132,5 @@ mycursor.execute("""CREATE TABLE grades_graphs (
                       hard_e2   INTEGER,
                       hard_e3   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")                     

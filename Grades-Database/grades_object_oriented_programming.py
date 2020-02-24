@@ -36,7 +36,7 @@ mycursor.execute("""CREATE TABLE grades_UML_diagrams (
                       hard_e2   INTEGER,
                       hard_e3   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")
                      
 mycursor.execute("""CREATE TABLE grades_classes (
@@ -78,7 +78,7 @@ mycursor.execute("""CREATE TABLE grades_classes (
                       hard_e5   INTEGER,
                       hard_e6   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")
 
 mycursor.execute("""CREATE TABLE grades_context_managers (
@@ -94,7 +94,7 @@ mycursor.execute("""CREATE TABLE grades_context_managers (
                       hard_e1   INTEGER,
                       hard_e2   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")
                      
 mycursor.execute("""CREATE TABLE grades_exceptions (
@@ -109,7 +109,7 @@ mycursor.execute("""CREATE TABLE grades_exceptions (
                       hard_e1   INTEGER,
                       hard_e2   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")                     
 
 mycursor.execute("""CREATE TABLE grades_modules (
@@ -133,5 +133,5 @@ mycursor.execute("""CREATE TABLE grades_modules (
                       hard_e2   INTEGER,
                       hard_e3   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")     

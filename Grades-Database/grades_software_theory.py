@@ -36,7 +36,7 @@ mycursor.execute("""CREATE TABLE grades_algorithms (
                       hard_e2   INTEGER,
                       hard_e3   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")
                      
 mycursor.execute("""CREATE TABLE grades_networks (
@@ -60,7 +60,7 @@ mycursor.execute("""CREATE TABLE grades_networks (
                       hard_e2   INTEGER,
                       hard_e3   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")
 
 mycursor.execute("""CREATE TABLE grades_databases (
@@ -84,7 +84,7 @@ mycursor.execute("""CREATE TABLE grades_databases (
                       hard_e2   INTEGER,
                       hard_e3   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")
                      
 mycursor.execute("""CREATE TABLE grades_testing (
@@ -108,7 +108,7 @@ mycursor.execute("""CREATE TABLE grades_testing (
                       hard_e2   INTEGER,
                       hard_e3   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")                     
 
 mycursor.execute("""CREATE TABLE grades_data_management (
@@ -132,6 +132,6 @@ mycursor.execute("""CREATE TABLE grades_data_management (
                       hard_e2   INTEGER,
                       hard_e3   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""") 
 

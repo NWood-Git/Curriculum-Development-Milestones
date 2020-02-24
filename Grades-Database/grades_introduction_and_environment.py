@@ -30,7 +30,7 @@ mycursor.execute("""CREATE TABLE grades_intro_to_cs (
                       hard_e1   INTEGER,
                       hard_e2   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")
                      
 mycursor.execute("""CREATE TABLE grades_IDEs (
@@ -49,7 +49,7 @@ mycursor.execute("""CREATE TABLE grades_IDEs (
                       hard_e1   INTEGER,
                       hard_e2   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")
 
 mycursor.execute("""CREATE TABLE grades_intro_to_computation (
@@ -80,7 +80,7 @@ mycursor.execute("""CREATE TABLE grades_intro_to_computation (
                       hard_e3   INTEGER,
                       hard_e4   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")
 
 mycursor.execute("""CREATE TABLE grades_version_control (
@@ -135,7 +135,7 @@ mycursor.execute("""CREATE TABLE grades_version_control (
                       hard_e7   INTEGER,
                       hard_e8   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")
 
 mycursor.execute("""CREATE TABLE grades_the_dev_env (
@@ -166,5 +166,5 @@ mycursor.execute("""CREATE TABLE grades_the_dev_env (
                       hard_e3   INTEGER,
                       hard_e4   INTEGER,
                       FOREIGN KEY   (stud_id)
-                        REFERENCES  students (id) 
+                        REFERENCES  students (stud_id) 
                      );""")
